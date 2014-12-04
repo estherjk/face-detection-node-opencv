@@ -2,8 +2,6 @@
 
 Real-time face detection using OpenCV, Node.js, and WebSockets.
 
-This setup assumes that a webcam is attached to the server, which then processes the video capture using OpenCV and broadcasts the processed frames via WebSockets to all connected browsers.
-
 Click [here](http://youtu.be/v2SY0naPBFw) to see it in action.
 
 ## Requirements
