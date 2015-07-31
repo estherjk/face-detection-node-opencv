@@ -25,7 +25,7 @@ module.exports = function (socket) {
 
         for (var i = 0; i < faces.length; i++) {
           face = faces[i];
-          im.rectangle([face.x, face.y], [face.x + face.width, face.y + face.height], rectColor, rectThickness);
+          im.rectangle([face.x, face.y], [face.width, face.height], rectColor, rectThickness);
         }
 
         socket.emit('frame', { buffer: im.toBuffer() });
