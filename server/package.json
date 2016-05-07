@@ -7,7 +7,7 @@
   "dependencies": {
     "express": "4.10.1",
     "morgan": "1.4.1",
-    "opencv": "3.0.0",
+    "opencv": "git+https://github.com/peterbraden/node-opencv.git",
     "socket.io": "1.2.1"
   }
 }
