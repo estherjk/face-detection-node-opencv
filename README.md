@@ -7,7 +7,7 @@ Click [here](http://youtu.be/v2SY0naPBFw) to see it in action.
 ## Requirements
 
 * [Node.js](http://nodejs.org/)
-* [OpenCV 2.4.12](http://opencv.org/)
+* [OpenCV 2.4.x](http://opencv.org/)
 * A webcam, e.g. laptop-integrated webcam, USB webcam
 
 ## Installing Node.js packages
